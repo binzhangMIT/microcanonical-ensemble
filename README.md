@@ -1,6 +1,6 @@
 # Statistical Mechanics with a 2-D Lennard-Jones System
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GITHUB_USERNAME/statmech-lj-ensemble/HEAD?labpath=Statistical_Mechanics_Ensemble_Project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binzhangMIT/microcanonical-ensemble/HEAD?labpath=Statistical_Mechanics_Ensemble_Project.ipynb)
 
 This repository is a computational experiment for a statistical mechanics
 course. It uses one microscopic model—a two-dimensional Lennard-Jones particle
